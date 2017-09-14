@@ -1,4 +1,4 @@
-# BookWhere-konversio (RDA)
+# Cyrillux-konversio (RDA)
 
 KUVAUS
 
@@ -7,7 +7,7 @@ Pääasiassa Melinda-kirjastoille suunnattu USEMARCON-konversiosääntö esimerk
 Konversio perustuu yleiseen poimintaluetteloitavien tietueiden konversioon (ns.
 [BookWhere-konversio (RDA)](https://github.com/NatLibFi/USEMARCON-BOOKWHERE-RDA).
 
-Lisätietoja USEMARCON-ohjelmasta löytyy MARC 21-formaatin [wikistä](https://www.kiwi.fi/display/Marc21/USEMARCON).
+Lisätietoja USEMARCON-ohjelmasta löytyy MARC 21-formaatin [wikistä](https://www.kiwi.fi/display/Marc21/USEMARCON)).
 
 KEHITYS
 
